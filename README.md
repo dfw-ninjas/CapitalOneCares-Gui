@@ -1,2 +1,2 @@
-# simFi
-Simulated financial literacy project for students
+# gameFi
+A game where students compete to win in the world of finance.
