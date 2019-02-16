@@ -1,8 +1,12 @@
-.mainarea{
-	height: 600px;
-	background: transparent;
+/* line 1, C:/Users/texte/DFWHack2019/scss/primary.scss */
+.mainarea {
+  height: 600px;
+  background: transparent;
 }
 
-.mainarea h1{
-	font-size: 100px;
+/* line 6, C:/Users/texte/DFWHack2019/scss/primary.scss */
+.mainarea h1 {
+  font-size: 100px;
 }
+
+/*# sourceMappingURL=../css/primary.map */

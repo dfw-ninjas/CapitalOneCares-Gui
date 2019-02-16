@@ -1,15 +1,21 @@
+/* line 1, C:/Users/texte/DFWHack2019/scss/intro.scss */
 .mainarea {
-	background: rgb(200,200,200);
+  background: #c8c8c8;
 }
 
+/* line 5, C:/Users/texte/DFWHack2019/scss/intro.scss */
 .mainarea h1 {
-	color: #1977fc;
+  color: #1977fc;
 }
 
+/* line 9, C:/Users/texte/DFWHack2019/scss/intro.scss */
 .mainarea p {
-	color: black;
+  color: black;
 }
 
+/* line 13, C:/Users/texte/DFWHack2019/scss/intro.scss */
 .footer {
-	height: 190px;
+  height: 190px;
 }
+
+/*# sourceMappingURL=../css/intro.map */
