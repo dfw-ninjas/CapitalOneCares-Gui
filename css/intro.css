@@ -1,0 +1,15 @@
+.mainarea {
+	background: rgb(200,200,200);
+}
+
+.mainarea h1 {
+	color: #1977fc;
+}
+
+.mainarea p {
+	color: black;
+}
+
+.footer {
+	height: 190px;
+}

@@ -1,0 +1,11 @@
+.btn {
+	height: 70px;
+}
+
+.invisible {
+	color:transparent;
+}
+
+.narrower {
+	margin: auto 100px;
+}
