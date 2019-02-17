@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../scss/dashboard.css",
+	"sources": [
+		"../scss/dashboard.scss"
+	],
+	"sourcesContent": [
+		".container{\r\n    min-height: 98vmax; \r\n}\r\n\r\n#left_column, #right_column{\r\n    height: 100%;\r\n}\r\n\r\n#left_column{\r\n    border-style: solid;\r\n    border-color: yellow;\r\n}\r\n\r\n#right_column{\r\n    border-style: solid;\r\n    border-color: blue;\r\n}"
+	],
+	"mappings": ";AAAA,AAAA,UAAU,CAAA;EACN,UAAU,EAAE,MAAO;CACtB;;;AAED,AAAA,YAAY,EAAE,AAAA,aAAa,CAAA;EACvB,MAAM,EAAE,IAAK;CAChB;;;AAED,AAAA,YAAY,CAAA;EACR,YAAY,EAAE,KAAM;EACpB,YAAY,EAAE,MAAO;CACxB;;;AAED,AAAA,aAAa,CAAA;EACT,YAAY,EAAE,KAAM;EACpB,YAAY,EAAE,IAAK;CACtB",
+	"names": []
+}

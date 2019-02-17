@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../scss/signup.css",
+	"sources": [
+		"../scss/signup.scss"
+	],
+	"sourcesContent": [
+		".btn {\r\n\theight: 70px;\r\n}\r\n\r\n.invisible {\r\n\tcolor:transparent;\r\n}\r\n\r\n.narrower {\r\n\tmargin: auto 100px;\r\n}"
+	],
+	"mappings": ";AAAA,AAAA,IAAI,CAAC;EACJ,MAAM,EAAE,IAAK;CACb;;;AAED,AAAA,UAAU,CAAC;EACV,KAAK,EAAC,WAAY;CAClB;;;AAED,AAAA,SAAS,CAAC;EACT,MAAM,EAAE,UAAW;CACnB",
+	"names": []
+}

@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../scss/intro.css",
+	"sources": [
+		"../scss/intro.scss"
+	],
+	"sourcesContent": [
+		".mainarea {\r\n\tbackground: rgb(200,200,200);\r\n\th1 {\r\n\t\tcolor: #1977fc;\r\n\t}\r\n\r\n\tp {\r\n\t\tcolor: black;\r\n\t}\r\n}\r\n\r\n.footer {\r\n\theight: 190px;\r\n}"
+	],
+	"mappings": ";AAAA,AAAA,SAAS,CAAC;EACT,UAAU,EAAE,OAAG;CAQf;;;AATD,AAEC,SAFQ,CAER,EAAE,CAAC;EACF,KAAK,EAAE,OAAQ;CACf;;;AAJF,AAMC,SANQ,CAMR,CAAC,CAAC;EACD,KAAK,EAAE,KAAM;CACb;;;AAGF,AAAA,OAAO,CAAC;EACP,MAAM,EAAE,KAAM;CACd",
+	"names": []
+}

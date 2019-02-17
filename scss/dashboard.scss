@@ -1,0 +1,17 @@
+.container{
+    min-height: 98vmax; 
+}
+
+#left_column, #right_column{
+    height: 100%;
+}
+
+#left_column{
+    border-style: solid;
+    border-color: yellow;
+}
+
+#right_column{
+    border-style: solid;
+    border-color: blue;
+}
