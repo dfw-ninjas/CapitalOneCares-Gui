@@ -5,8 +5,8 @@
 		"../scss/intro.scss"
 	],
 	"sourcesContent": [
-		".mainarea {\r\n\tbackground: rgb(200,200,200);\r\n\tpadding: 20px;\r\n\th1 {\r\n\t\tcolor: #1977fc;\r\n\t}\r\n\r\n\tp {\r\n\t\tcolor: black;\r\n\t}\r\n}\r\n\r\n.footer {\r\n\theight: 190px;\r\n}\r\n\r\n#logo{\r\n\twidth: 40%;\r\n\theight: 40%;\r\n}\r\n\r\n.profilepic{\r\n\theight: 18rem;\r\n}"
+		".mainarea {\r\n\tbackground: rgb(200,200,200);\r\n\tpadding: 20px;\r\n\th1 {\r\n\t\tcolor: #1977fc;\r\n\t}\r\n\r\n\tp {\r\n\t\tcolor: black;\r\n\t}\r\n}\r\n\r\n.footer {\r\n\theight: 190px;\r\n}\r\n\r\n#logo{\r\n\twidth: 40%;\r\n\theight: 40%;\r\n}\r\n\r\n.image-box{\r\n\toverflow:hidden;\r\n\twidth:18rem;\r\n\theight: 18rem;\r\n}\r\n\r\n#more-margin-1 {\r\n\tmargin-bottom: 2px;\r\n}"
 	],
-	"mappings": ";AAAA,AAAA,SAAS,CAAC;EACT,UAAU,EAAE,OAAG;EACf,OAAO,EAAE,IAAK;CAQd;;;AAVD,AAGC,SAHQ,CAGR,EAAE,CAAC;EACF,KAAK,EAAE,OAAQ;CACf;;;AALF,AAOC,SAPQ,CAOR,CAAC,CAAC;EACD,KAAK,EAAE,KAAM;CACb;;;AAGF,AAAA,OAAO,CAAC;EACP,MAAM,EAAE,KAAM;CACd;;;AAED,AAAA,KAAK,CAAA;EACJ,KAAK,EAAE,GAAI;EACX,MAAM,EAAE,GAAI;CACZ;;;AAED,AAAA,WAAW,CAAA;EACV,MAAM,EAAE,KAAM;CACd",
+	"mappings": ";AAAA,AAAA,SAAS,CAAC;EACT,UAAU,EAAE,OAAG;EACf,OAAO,EAAE,IAAK;CAQd;;;AAVD,AAGC,SAHQ,CAGR,EAAE,CAAC;EACF,KAAK,EAAE,OAAQ;CACf;;;AALF,AAOC,SAPQ,CAOR,CAAC,CAAC;EACD,KAAK,EAAE,KAAM;CACb;;;AAGF,AAAA,OAAO,CAAC;EACP,MAAM,EAAE,KAAM;CACd;;;AAED,AAAA,KAAK,CAAA;EACJ,KAAK,EAAE,GAAI;EACX,MAAM,EAAE,GAAI;CACZ;;;AAED,AAAA,UAAU,CAAA;EACT,QAAQ,EAAC,MAAO;EAChB,KAAK,EAAC,KAAM;EACZ,MAAM,EAAE,KAAM;CACd;;;AAED,AAAA,cAAc,CAAC;EACd,aAAa,EAAE,GAAI;CACnB",
 	"names": []
 }

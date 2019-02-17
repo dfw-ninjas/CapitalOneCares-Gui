@@ -1,20 +1,20 @@
-/* line 1, C:/Users/texte/DFWHack2019/scss/dashboard.scss */
+/* line 1, C:/Users/allen/gameFi/scss/dashboard.scss */
 .container {
   min-height: 98vmax;
 }
 
-/* line 5, C:/Users/texte/DFWHack2019/scss/dashboard.scss */
+/* line 5, C:/Users/allen/gameFi/scss/dashboard.scss */
 #left_column, #right_column {
   height: 100%;
 }
 
-/* line 14, C:/Users/texte/DFWHack2019/scss/dashboard.scss */
+/* line 14, C:/Users/allen/gameFi/scss/dashboard.scss */
 #right_column {
   border-style: solid;
   border-color: blue;
 }
 
-/* line 19, C:/Users/texte/DFWHack2019/scss/dashboard.scss */
+/* line 19, C:/Users/allen/gameFi/scss/dashboard.scss */
 #logo {
   width: 40%;
   height: 40%;
