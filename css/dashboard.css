@@ -1,23 +1,11 @@
 /* line 1, C:/Users/texte/DFWHack2019/scss/dashboard.scss */
 .container {
-  min-height: 98vh;
+  min-height: 98vmax;
 }
 
 /* line 5, C:/Users/texte/DFWHack2019/scss/dashboard.scss */
 #left_column, #right_column {
   height: 100%;
-}
-
-/* line 9, C:/Users/texte/DFWHack2019/scss/dashboard.scss */
-#left_column {
-  border-style: solid;
-  border-color: yellow;
-}
-
-/* line 14, C:/Users/texte/DFWHack2019/scss/dashboard.scss */
-#right_column {
-  border-style: solid;
-  border-color: blue;
 }
 
 /*# sourceMappingURL=../css/dashboard.map */

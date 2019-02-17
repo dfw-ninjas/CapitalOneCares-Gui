@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "../scss/quiz.css",
+	"sources": [
+		"../scss/quiz.scss",
+		"../scss/dashboard.scss"
+	],
+	"sourcesContent": [
+		"@import 'dashboard';\r\n\r\n.question{\r\n    margin-left: -35px;\r\n}\r\n\r\n.custom-control-label{\r\n    margin: 8px;\r\n    margin-left: 20px;\r\n    font-size: 2rem;\r\n    &:before, &:after{\r\n        vertical-align: center;\r\n        left: -45px;\r\n        margin-right: 30px;\r\n        height: 2rem;\r\n        width: 2rem;\r\n    }\r\n\r\n\r\n}\r\n",
+		".container{\r\n    min-height: 98vmax; \r\n}\r\n\r\n#left_column, #right_column{\r\n    height: 100%;\r\n}\r\n\r\n// #left_column{\r\n//     border-style: solid;\r\n//     border-color: yellow;\r\n// }\r\n\r\n// #right_column{\r\n//     border-style: solid;\r\n//     border-color: blue;\r\n// }"
+	],
+	"mappings": ";ACAA,AAAA,UAAU,CAAA;EACN,UAAU,EAAE,MAAO;CACtB;;;AAED,AAAA,YAAY,EAAE,AAAA,aAAa,CAAA;EACvB,MAAM,EAAE,IAAK;CAChB;;;ADJD,AAAA,SAAS,CAAA;EACL,WAAW,EAAE,KAAM;CACtB;;;AAED,AAAA,qBAAqB,CAAA;EACjB,MAAM,EAAE,GAAI;EACZ,WAAW,EAAE,IAAK;EAClB,SAAS,EAAE,IAAK;CAUnB;;;AAbD,AAAA,qBAAqB,AAIhB,OAAO,EAJZ,AAAA,qBAAqB,AAIN,MAAM,CAAA;EACb,cAAc,EAAE,MAAO;EACvB,IAAI,EAAE,KAAM;EACZ,YAAY,EAAE,IAAK;EACnB,MAAM,EAAE,IAAK;EACb,KAAK,EAAE,IAAK;CACf",
+	"names": []
+}

@@ -1,0 +1,20 @@
+@import 'dashboard';
+
+.question{
+    margin-left: -35px;
+}
+
+.custom-control-label{
+    margin: 8px;
+    margin-left: 20px;
+    font-size: 2rem;
+    &:before, &:after{
+        vertical-align: center;
+        left: -45px;
+        margin-right: 30px;
+        height: 2rem;
+        width: 2rem;
+    }
+
+
+}

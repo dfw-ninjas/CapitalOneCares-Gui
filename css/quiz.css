@@ -1,0 +1,32 @@
+/* line 1, C:/Users/texte/DFWHack2019/scss/dashboard.scss */
+.container {
+  min-height: 98vmax;
+}
+
+/* line 5, C:/Users/texte/DFWHack2019/scss/dashboard.scss */
+#left_column, #right_column {
+  height: 100%;
+}
+
+/* line 3, C:/Users/texte/DFWHack2019/scss/quiz.scss */
+.question {
+  margin-left: -35px;
+}
+
+/* line 7, C:/Users/texte/DFWHack2019/scss/quiz.scss */
+.custom-control-label {
+  margin: 8px;
+  margin-left: 20px;
+  font-size: 2rem;
+}
+
+/* line 11, C:/Users/texte/DFWHack2019/scss/quiz.scss */
+.custom-control-label:before, .custom-control-label:after {
+  vertical-align: center;
+  left: -45px;
+  margin-right: 30px;
+  height: 2rem;
+  width: 2rem;
+}
+
+/*# sourceMappingURL=../css/quiz.map */
