@@ -1,12 +1,18 @@
-/* line 1, C:/Users/texte/DFWHack2019/scss/primary.scss */
+/* line 1, C:/Users/allen/gameFi/scss/primary.scss */
 .mainarea {
   height: 600px;
   background: transparent;
 }
 
-/* line 4, C:/Users/texte/DFWHack2019/scss/primary.scss */
+/* line 4, C:/Users/allen/gameFi/scss/primary.scss */
 .mainarea h1 {
   font-size: 100px;
+}
+
+/* line 9, C:/Users/allen/gameFi/scss/primary.scss */
+#logo {
+  width: 40%;
+  height: 40%;
 }
 
 /*# sourceMappingURL=../css/primary.map */

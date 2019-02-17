@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../scss/signupstudent.css",
+	"sources": [
+		"../scss/signupstudent.scss"
+	],
+	"sourcesContent": [
+		"#logo {\r\n\twidth: 40%;\r\n\theight: 40%;\r\n}"
+	],
+	"mappings": ";AAAA,AAAA,KAAK,CAAC;EACL,KAAK,EAAE,GAAI;EACX,MAAM,EAAE,GAAI;CACZ",
+	"names": []
+}

@@ -5,8 +5,8 @@
 		"../scss/primary.scss"
 	],
 	"sourcesContent": [
-		".mainarea{\r\n\theight: 600px;\r\n\tbackground: transparent;\r\n\th1{\r\n\t\tfont-size: 100px;\r\n\t}\r\n}\r\n"
+		".mainarea{\r\n\theight: 600px;\r\n\tbackground: transparent;\r\n\th1{\r\n\t\tfont-size: 100px;\r\n\t}\r\n}\r\n\r\n#logo{\r\n\twidth: 40%;\r\n\theight: 40%;\r\n}"
 	],
-	"mappings": ";AAAA,AAAA,SAAS,CAAA;EACR,MAAM,EAAE,KAAM;EACd,UAAU,EAAE,WAAY;CAIxB;;;AAND,AAGC,SAHQ,CAGR,EAAE,CAAA;EACD,SAAS,EAAE,KAAM;CACjB",
+	"mappings": ";AAAA,AAAA,SAAS,CAAA;EACR,MAAM,EAAE,KAAM;EACd,UAAU,EAAE,WAAY;CAIxB;;;AAND,AAGC,SAHQ,CAGR,EAAE,CAAA;EACD,SAAS,EAAE,KAAM;CACjB;;;AAGF,AAAA,KAAK,CAAA;EACJ,KAAK,EAAE,GAAI;EACX,MAAM,EAAE,GAAI;CACZ",
 	"names": []
 }
