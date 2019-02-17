@@ -8,12 +8,6 @@
   height: 100%;
 }
 
-/* line 9, C:/Users/allen/gameFi/scss/dashboard.scss */
-#left_column {
-  border-style: solid;
-  border-color: yellow;
-}
-
 /* line 14, C:/Users/allen/gameFi/scss/dashboard.scss */
 #right_column {
   border-style: solid;

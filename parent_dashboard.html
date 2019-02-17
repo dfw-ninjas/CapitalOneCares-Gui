@@ -8,6 +8,7 @@
     <link rel="stylesheet" type="text/css" href="css/dashboard.css">
 </head>
 <body>
+
     <!--Main Navbar-->
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="index.html"><img id="logo" src="imgs/logo.gif"></a>
@@ -24,6 +25,22 @@
       </li>
     </ul>
 </nav>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">LOGO</a>
+        <ul class="navbar-nav navbar-right">
+            <li class="nav-item">
+                <a class="nav-link" href="intro.html">What is COC</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="signup.html">Getting Started</a>
+            </li>
+            <li class="nav-item">
+                <a id="profilepic" class="nav-link" href="login.html">Log In</a>
+            </li>
+        </ul>
+    </nav>
+
     <nav class="navbar navbar-dark bg-dark navbar-expand-lg navbar-light bg-light">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#secondary_toolbar" aria-controls="secondary_toolbar" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -83,7 +100,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>        
     <script>
         $.ajax({
-            url: 'http://api.reimaginebanking.com/accounts/5c689943322fa06b6779476a?key=878666f05697b1896e116c4fcc2f6a0c',
+            url: 'http://api.reimaginebanking.com/accounts?type=Credit%20Card&key=878666f05697b1896e116c4fcc2f6a0c',
             success: function(results){
                 console.log(JSON.stringify(results));
                 $("#nickname").append("nickname :" + results.nickname);
